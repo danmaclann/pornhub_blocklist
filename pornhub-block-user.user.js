@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Pornhub Block User by Menu Click
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/danmaclann
 // @version      1.1
 // @license      MIT
 // @description  Adds "Block user" to video menu via event interception, hides persistently
