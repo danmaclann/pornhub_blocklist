@@ -7,8 +7,8 @@
 // @match        https://*.pornhub.com/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL https://raw.githubusercontent.com/danmaclann/repo/main/pornhub-block-user.user.js
-// @updateURL   https://raw.githubusercontent.com/danmaclann/repo/main/pornhub-block-user.user.js
+// @downloadURL https://github.com/danmaclann/pornhub_blocklist/raw/refs/heads/main/pornhub-block-user.user.js
+// @updateURL   https://github.com/danmaclann/pornhub_blocklist/raw/refs/heads/main/pornhub-block-user.user.js
 // ==/UserScript==
 
 (function() {
