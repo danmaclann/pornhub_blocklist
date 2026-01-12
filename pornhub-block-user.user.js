@@ -1,4 +1,5 @@
 // ==UserScript==
+// @license MIT
 // @name         Pornhub Block User by Menu Click
 // @namespace    http://tampermonkey.net/
 // @version      1.0
