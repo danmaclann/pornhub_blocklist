@@ -1,15 +1,16 @@
 // ==UserScript==
 // @name         Pornhub Block User by Menu Click
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @license      MIT
 // @description  Adds "Block user" to video menu via event interception, hides persistently
 // @author       danmaclann
 // @match        https://*.pornhub.com/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL https://github.com/danmaclann/pornhub_blocklist/raw/refs/heads/main/pornhub-block-user.user.js
-// @updateURL   https://github.com/danmaclann/pornhub_blocklist/raw/refs/heads/main/pornhub-block-user.user.js
+// @icon         https://ei.phncdn.com/www-static/favicon.ico
+// @downloadURL  https://github.com/danmaclann/pornhub_blocklist/raw/refs/heads/main/pornhub-block-user.user.js
+// @updateURL    https://github.com/danmaclann/pornhub_blocklist/raw/refs/heads/main/pornhub-block-user.user.js
 // ==/UserScript==
 
 (function() {
